@@ -2,7 +2,7 @@
 <h3 align="center">A data science major and Honors College student at University of Michigan</h3>
 
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **MapReduce**
 
 - 👨‍💻 Check out my website at [https://rakikrishnan.netlify.app/](https://rakikrishnan.netlify.app/)
 
