@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rakesh Krishnan</h1>
-<h3 align="center">A data science major and Honors College student at University of Michigan</h3>
+<h3 align="center">A Data Science Major, Environment Major and Honors College student at University of Michigan</h3>
 
 
 - 🌱 I’m currently learning **Database Management and Machine Learning**
