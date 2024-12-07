@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **raki@umich.edu**
 
-- ⚡ Fun fact **I love Lamar Jackson**
+- ⚡ Fun fact **Lamar Jackson is my favorite football player**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
